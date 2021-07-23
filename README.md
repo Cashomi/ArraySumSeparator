@@ -1,2 +1,2 @@
 # Introduction 
-Repository for coding challenge
+Repository for coding challenges
