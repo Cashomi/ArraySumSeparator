@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySumSeparator", "InterviewQuestions\ArraySumSeparator.csproj", "{8E4A190B-49C1-434F-A90B-54474011804A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySumSeparator", "ArraySumSeparator\ArraySumSeparator.csproj", "{8E4A190B-49C1-434F-A90B-54474011804A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySumSeparatorTests", "ArraySumSeparatorTests\ArraySumSeparatorTests.csproj", "{37AA47F7-B69A-45A0-86FF-8FAF4DE7F861}"
 EndProject

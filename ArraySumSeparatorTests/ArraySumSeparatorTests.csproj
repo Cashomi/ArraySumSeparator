@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InterviewQuestions\ArraySumSeparator.csproj" />
+    <ProjectReference Include="..\ArraySumSeparator\ArraySumSeparator.csproj" />
   </ItemGroup>
 
 </Project>
